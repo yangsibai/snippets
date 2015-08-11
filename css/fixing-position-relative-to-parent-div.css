@@ -1,0 +1,9 @@
+// From: http://stackoverflow.com/questions/15169220/fixing-position-relative-to-parent-div
+
+.parent {
+    position: relative;
+}
+.child {
+    position: absolute;
+    top: 0;
+}
